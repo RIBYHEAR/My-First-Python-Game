@@ -1,6 +1,6 @@
 import os
-
-print("Hello, Welcome to my First Game!")
+os.system('title Choices - Live or Die')
+print("Choices - Live or Die"
 name=input("What is your name? ")
 age=int(input("What is your age? "))
 
